@@ -9,11 +9,5 @@ Tendo baixado os arquivos, você também precisa dos arquivos da calculadora, di
 Efetuado o download, você copiará a pasta "calculadora" inteira nesse local aqui: documentos/NetBeansProjects.
 Ok, agora temos os arquivos e programas necessários para iniciar nossa calculadora.
 
-Inicie o NetBeans, Clique em "file" (parte superior esquerda da tela), "open project", selecione "calculadora" e clique em "Open Project".
-Para executar a calculadora siga os seguintes passos:
-- clique no botão ">" ao lado de "calculadora" que estará à esquerda da tela,
-- após clique em ">" ao lado de "Source Packages",
-- feito isso, clique em ">" ao lado de "com.mycompany.calculadora",
-- por fim, clique em "Formulario.java", no arquivo que abriu clique em "Design" e tecle "Shift" + "F6".
 
-Agora é só utilizar a calculadora.
+Inicie o NetBeans, clique em "file", "open Project", selecione "conversorMassas" e clique em "Open Project". Selecione a aba "Files" (canto esquerdo da tela), clique no "+" ao lado da pasta "calculadora", clique no "+" na pasta "src", também será necessário clicar no "+" na pasta "main",na pasta "java",pasta "com", "mycompany", "calculadora" feito isso terá um arquivo chamado "Formulario.java", dê um clique duplo nesse arquivo e tecle "Shift" e "F6" simultâneamente e então, você poderá utilizar a calculadora.
